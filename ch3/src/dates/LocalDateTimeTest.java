@@ -39,8 +39,6 @@ public class LocalDateTimeTest {
 		
 		
 		// 지나온 날짜 계산하기
-		
-		
 		long passedTime = ChronoUnit.DAYS.between(startDay, today);
 		System.out.println(passedTime + "일이 지났습니다.");
 	}
