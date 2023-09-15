@@ -1,0 +1,21 @@
+프로그래밍 언어 활용
+C언어 - 1970년(구조적 언어) : 윈도우, 리눅스 운영체제, 엠베디드 시스템(하드웨어)
+C++언어 - (객체지향 언어) 1980년(게임,어플리케이션)
+자바(JAVA)
+자바 스크립트(Javascript)- 인터넷 동적언어, 웹 언어
+
+
+**자바 언어를 사용하기 위한 환경 구축**
+1. JDK(Java Development Kit): 자바 개발 도구(컴파일러,라이브러리)
+    jdk11, windows
+2.이클립스(IDE-통합개발환경): 편집 도구
+
+**컴파일러와 인터프리터**
+1) 컴파일러(compiler) : 소스를 기계어(2진수)로 번역하는 프로그램
+-01234(10진수) -deximal
+-011011100(2진수) - binary
+2) 인터프리터(interpreter) : 한 줄씩 번역하는 프로그램 - python, javascript
+
+**JRE와 JDK**
+-JRE(Java Runtime Environment) : 자바실행환경 (JVM-Java Virtual Machine 포함)
+-JDK(Java Development Kit) : 개발할때 설치

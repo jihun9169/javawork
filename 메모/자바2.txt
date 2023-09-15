@@ -1,0 +1,45 @@
+-프로젝트 계층
+Project > Package(패키지) > Class(자바 파일)
+1.프로젝트 만드는 방법
+File > new > create a java project
+2. 패키지 생성
+3. 자바파일 생성(.java)
+
+글꼴,크기 변경- 설정메뉴
+Window > Preference > General > Appearence > Colors
+콘솔 - Console
+
+데이터(data) - 상수
+-숫자(0~9)
+-문자(영어,한글)
+-불리언(true/false)
+
+data > PrintData, Var.java
+변수(Variable Number)
+자료형(Data Type) - 변수를 담는 그릇
+숫자(Number) 
+-정수형 자료형 : int(Integer)
+-실수형 자료형 : float, double
+
+손흥민은 3학년 2반입니다
+
+-문자 : char형, string형
+data >
+
+10진수 -> 2진수
+  0	   0
+  1	   1
+  2	  10
+
+
+ 48
+
+32 16 8 4 2 1
+
+1   1  0 0 0 0 
+
+
+
+65 
+1 0 0 0 0 0 1
+
